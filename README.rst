@@ -9,7 +9,7 @@ C++.
 Class Hierarchy
 ---------------
 
-(an initial swag at the class hierarchy):
+(an initial swag at the class hierarchy)::
 
    Node
     |-- "ValueNode" -- need a better name??
